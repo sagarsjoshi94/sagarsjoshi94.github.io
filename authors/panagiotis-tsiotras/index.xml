@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panagiotis Tsiotras | Sagar Joshi</title>
+    <link>https://sagarsjoshi94.github.io/authors/panagiotis-tsiotras/</link>
+      <atom:link href="https://sagarsjoshi94.github.io/authors/panagiotis-tsiotras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panagiotis Tsiotras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2019 19:13:04 -0400</lastBuildDate>
+    <image>
+      <url>https://sagarsjoshi94.github.io/img/icon-192.png</url>
+      <title>Panagiotis Tsiotras</title>
+      <link>https://sagarsjoshi94.github.io/authors/panagiotis-tsiotras/</link>
+    </image>
+    
+    <item>
+      <title>Non-Parametric Informed Exploration for Sampling-Based Motion Planning</title>
+      <link>https://sagarsjoshi94.github.io/publication/np_inf/</link>
+      <pubDate>Sat, 05 Oct 2019 19:13:04 -0400</pubDate>
+      <guid>https://sagarsjoshi94.github.io/publication/np_inf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
