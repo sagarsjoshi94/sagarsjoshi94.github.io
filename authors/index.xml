@@ -5,7 +5,7 @@
     <link>https://sagarsjoshi94.github.io/authors/</link>
       <atom:link href="https://sagarsjoshi94.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2019 19:13:04 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2019 11:40:04 -0400</lastBuildDate>
     <image>
       <url>https://sagarsjoshi94.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>Panagiotis Tsiotras</title>
-      <link>https://sagarsjoshi94.github.io/authors/panagiotis-tsiotras/</link>
-      <pubDate>Sat, 05 Oct 2019 19:13:04 -0400</pubDate>
-      <guid>https://sagarsjoshi94.github.io/authors/panagiotis-tsiotras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sagar Suhas Joshi</title>
-      <link>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</link>
-      <pubDate>Sat, 05 Oct 2019 19:13:04 -0400</pubDate>
-      <guid>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</guid>
+      <title>Sagar Suhas Joshi and Panagiotis Tsiotras</title>
+      <link>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi-and-panagiotis-tsiotras/</link>
+      <pubDate>Sun, 06 Oct 2019 11:40:04 -0400</pubDate>
+      <guid>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi-and-panagiotis-tsiotras/</guid>
       <description></description>
     </item>
     
@@ -33,9 +25,7 @@
       <link>https://sagarsjoshi94.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sagarsjoshi94.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Robotics PhD student advised by &lt;a href=&#34;http://dcsl.gatech.edu/tsiotras.html&#34; target=&#34;_blank&#34;&gt;Dr.Panagiotis Tsiotras&lt;/a&gt; in the Institute of Robotics and Intelligent Machines (IRIM) (&lt;a href=&#34;http://www.robotics.gatech.edu/&#34; target=&#34;_blank&#34;&gt;http://www.robotics.gatech.edu/&lt;/a&gt;) at Georgia Tech. I am currently working on intelligent exploration techniques for sampling-based motion planning. My research area lies at the exciting intersection of A.I and heuristics, Machine learning and optimal-control theory. I graduated from IIT-Madras in 2017 with a Bachelor&amp;rsquo;s and Master&amp;rsquo;s degree in Engineering Design, where I worked with Dr.Shankar Ram C S (&lt;a href=&#34;https://ed.iitm.ac.in/~shankarram/&#34; target=&#34;_blank&#34;&gt;https://ed.iitm.ac.in/~shankarram/&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>
     
