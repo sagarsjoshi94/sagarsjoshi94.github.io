@@ -5,12 +5,28 @@
     <link>https://sagarsjoshi94.github.io/authors/</link>
       <atom:link href="https://sagarsjoshi94.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Oct 2019 11:40:04 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 13:12:13 -0400</lastBuildDate>
     <image>
       <url>https://sagarsjoshi94.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://sagarsjoshi94.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Sagar Suhas Joshi</title>
+      <link>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</link>
+      <pubDate>Thu, 16 Apr 2020 13:12:13 -0400</pubDate>
+      <guid>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seth Hutchinson and Panagiotis Tsiotras</title>
+      <link>https://sagarsjoshi94.github.io/authors/seth-hutchinson-and-panagiotis-tsiotras/</link>
+      <pubDate>Thu, 16 Apr 2020 13:12:13 -0400</pubDate>
+      <guid>https://sagarsjoshi94.github.io/authors/seth-hutchinson-and-panagiotis-tsiotras/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sagar Suhas Joshi and Panagiotis Tsiotras</title>
@@ -34,14 +50,6 @@
       <link>https://sagarsjoshi94.github.io/authors/niko-maas-and-dieter-schramm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sagarsjoshi94.github.io/authors/niko-maas-and-dieter-schramm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sagar Suhas Joshi</title>
-      <link>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sagarsjoshi94.github.io/authors/sagar-suhas-joshi/</guid>
       <description></description>
     </item>
     

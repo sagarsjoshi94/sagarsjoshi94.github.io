@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="under review">
+  <meta name="description" content="An efficient exploration algorithm for planning over cost-maps. This can be applied to robots such as the Mars rover, which needs to avoid rough/danger terrains while exploration and manipulator arms, which need to perform dexterous motions.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://sagarsjoshi94.github.io/publication/rel_region/">
@@ -115,7 +115,7 @@
   <meta property="og:site_name" content="Sagar Joshi">
   <meta property="og:url" content="https://sagarsjoshi94.github.io/publication/rel_region/">
   <meta property="og:title" content="Relevant Region Exploration On General Cost-maps For Sampling-Based Motion Planning | Sagar Joshi">
-  <meta property="og:description" content="under review"><meta property="og:image" content="https://sagarsjoshi94.github.io/publication/rel_region/featured.png">
+  <meta property="og:description" content="An efficient exploration algorithm for planning over cost-maps. This can be applied to robots such as the Mars rover, which needs to avoid rough/danger terrains while exploration and manipulator arms, which need to perform dexterous motions."><meta property="og:image" content="https://sagarsjoshi94.github.io/publication/rel_region/featured.png">
   <meta property="twitter:image" content="https://sagarsjoshi94.github.io/publication/rel_region/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -169,7 +169,7 @@
       "url": "https://sagarsjoshi94.github.io/img/icon-512.png"
     }
   },
-  "description": "under review"
+  "description": "An efficient exploration algorithm for planning over cost-maps. This can be applied to robots such as the Mars rover, which needs to avoid rough/danger terrains while exploration and manipulator arms, which need to perform dexterous motions."
 }
 </script>
 
@@ -661,10 +661,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 656px; max-height: 523px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 677px; max-height: 532px;">
   <div style="position: relative">
     <img src="/publication/rel_region/featured.png" alt="" class="featured-image">
-    
+    <span class="article-header-caption">Path planning on a terrain cost-map. White areas represent the high-cost rough spaces.</span>
   </div>
 </div>
 
@@ -672,6 +672,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Asymptotically optimal sampling-based planners require an intelligent exploration strategy to accelerate convergence. After an initial solution is found, a necessary condition for improvement is to generate new samples in the so-called Informed Set. However, Informed Sampling can be ineffective in focusing search if the chosen heuristic fails to provide a good estimate of the solution cost. This work proposes an algorithm to sample the Relevant Region instead, which is a subset of the Informed Set. The Relevant Region utilizes cost-to-come information from the planner&rsquo;s tree structure, reduces dependence on the heuristic, and further focuses the search. Benchmarking tests in uniform and general cost-space settings demonstrate the efficacy of Relevant Region sampling.</p>
     
 
     
