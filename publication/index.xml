@@ -5,7 +5,7 @@
     <link>https://sagarsjoshi94.github.io/publication/</link>
       <atom:link href="https://sagarsjoshi94.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2020 13:12:13 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 13:12:13 -0400</lastBuildDate>
     <image>
       <url>https://sagarsjoshi94.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>Time-Informed Exploration For Robot Motion Planning</title>
+      <title>LES: Locally Exploitative Sampling for Robot Path Planning</title>
+      <link>https://sagarsjoshi94.github.io/publication/les/</link>
+      <pubDate>Fri, 16 Apr 2021 13:12:13 -0400</pubDate>
+      <guid>https://sagarsjoshi94.github.io/publication/les/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIE: Time-Informed Exploration For Robot Motion Planning</title>
       <link>https://sagarsjoshi94.github.io/publication/time_inf/</link>
       <pubDate>Thu, 16 Apr 2020 13:12:13 -0400</pubDate>
       <guid>https://sagarsjoshi94.github.io/publication/time_inf/</guid>
