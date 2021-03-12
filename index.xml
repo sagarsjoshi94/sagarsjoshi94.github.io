@@ -40,9 +40,9 @@ I use ROS+OMPL+MoveIt! to develop and test my planning algorithms for such robot
     
     <item>
       <title>Autonomous Car</title>
-      <link>https://sagarsjoshi94.github.io/project/racecar/</link>
+      <link>https://sagarsjoshi94.github.io/project/autonomous_car/</link>
       <pubDate>Wed, 09 Oct 2019 20:42:53 -0400</pubDate>
-      <guid>https://sagarsjoshi94.github.io/project/racecar/</guid>
+      <guid>https://sagarsjoshi94.github.io/project/autonomous_car/</guid>
       <description>&lt;p&gt;We are developing a complete ROS software stack for autonomous navigation of the MIT RACECAR robot. Please find a video of car in simulation &lt;a href=&#34;https://www.youtube.com/watch?v=u5Zc4rvt2UE&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. The car uses LiDAR and odometry data for SLAM. Variant of A* or a sampling-based algorithm such as RRT*, RRT# is used for path planning.&lt;/p&gt;
 </description>
     </item>
